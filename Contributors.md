@@ -2,6 +2,6 @@
 |      Name      |    ID      |    GitHub Account   |
 | -------------- | ---------  | ------------------- |
 | Aayesha Farooq |  20199082  |     gfjyfj          |
-|  Ayesha Riaz   |  202002833 |    kgifi            |
-|  Zainab Nazir  |  20192710  |      fuyfcj         | 
+|  Zainab Nazir  |  20192710  | https://github.com/izainabnazir   | 
 |  Nihal Ahsan   | 202009101  |      hjvyvf         |
+|  Ayesha Riaz   |  202002833 | https://github.com/learner-sys |
