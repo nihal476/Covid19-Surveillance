@@ -1,7 +1,10 @@
 # ITSE 476 - PHASE 1
 # Covid19-surveillance
+This is an open source project for a system that intends to facilitate the healthcare authorities in prevention and detection of coronavirus. Our sysytem is a single functional framework allowing users to access all the functionalities related to coronavirus in a single platform. It provides various services from scheduling covid test appointments to obtaining a recovery certificate, online. It would also help the healthcare authorities to keep a record and track of the infected pateints and hence use this data to control the spread of the virus.
 # Look Around First
+We've went through various projects similar to our project but we're working on our project to make it the most efficent, effective and useful project by focusing on and adding the features that were missing in the other projects and ways to enhace the functionality of our system. 
 # Start From What You Have
+Coronavirus tracking 
 # Good Name
 # Project Is Free and Open Source
 # Features and Requirement List
