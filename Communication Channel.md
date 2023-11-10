@@ -7,5 +7,12 @@ We can communicate with one another via the web or email by using Google Groups 
 
 ![Screenshot (631)](https://github.com/nihal476/Covid19-Tracker/assets/143533864/68768392-8cb9-4b28-b3f6-2719b25d330a)
 
+This is a screenshot of our Google Groups space members.
+
+You can contact the moderator AyeshaFarooq1110@gmail.com.
 
 ![Screenshot (629)](https://github.com/nihal476/Covid19-Tracker/assets/143533864/8fc8900a-1092-45a5-9ed1-6a7ce56bcd5a)
+
+This is a screenshot of our Google chats space details, which include a description and some guidelines.
+
+You can contact the moderator at awash00r0@gmail.com.
