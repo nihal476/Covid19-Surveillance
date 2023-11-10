@@ -4,9 +4,15 @@ This is an open source project for a system that intends to facilitate the healt
 # Look Around First
 We've went through various projects similar to our project but we're working on our project to make it the most efficent, effective and useful project by focusing on and adding the features that were missing in the other projects and ways to enhace the functionality of our system. 
 # Start From What You Have
-Coronavirus tracking 
+Coronavirus tracking System is scheduled to become an open source & free system, based on the contributors of then Covid-19 Tracking System which is a system developed for the course ITSE305 (software engineering project Management). Now that the system has been substantially constructed, it is time to give our system a "open source software" platform and to specify the license. In our system, appointment scheduling, location tracing, issuing certificates, and payment will be the main areas of system enhancement. Through the optimization of notification, appointment scheduling, and inventory management, the new system will prioritize improving customer service.
 # Good Name
+We have chosen a distinctive and easy to remeber name for our system. i.e., "COVID-19 Surveillance".
 # Project Is Free and Open Source
+It is crucial to note that the project is free and open source in order to prevent misunderstandings and restrictions. Because of this, the project is powerful and easy to use. It uses GNU liscense this system is free open-source software. Anyone is welcome to participate. 
+Furthermore, our project has certain constraints, which consist of:
+1- Java will be used to develop the system.
+2- The system will be multilingual. 
+3- Various users will have access to the system.i.e., Admin, pateints, Medical staff.
 # Features and Requirement List
 # Development Status
 * So far, the Initial functionality and basic design of the system have been completed.  
