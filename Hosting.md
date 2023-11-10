@@ -15,5 +15,6 @@ This is particularly crucial for open source projects as they frequently involve
 All data is stored on servers located in several data centers throughout the globe, and HTTPS encryption is utilized to safeguard data while it is in transit. 
 A group of committed security experts at GitHub also continuously scans the site for flaws and responds to any security events.
 
+**5: Community-driven development:** Anyone may contribute to a project using GitHub's community-driven method, which includes reporting bugs, contributing code modifications, and proposing new features. This encourages donors to feel invested in and involved in the project, which results in more creative and strong ventures.
 
 
