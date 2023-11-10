@@ -10,3 +10,5 @@ Where every member of the group can create files, commit changes, and review oth
 In the top menu of our github repository website, there is a "Issues" tab. 
 Anyone in the project can access an issue, give it a title, add comments, report bugs, attach files and visual proofs, and label it. 
 Members of the project can vote on concerns they want addressed. From commit messages, we may close issues.
+
+<img width="727" alt="bugtracker" src="https://github.com/nihal476/Covid19-Tracker/assets/149944715/6fb09fb2-c5de-407d-8fdc-b440ff082c7c">
