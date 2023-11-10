@@ -1,2 +1,2 @@
-# Starting From what You Have
+# Starting From What You Have
 Coronavirus tracking System is scheduled to become an open source & free system, based on the contributors of then Covid-19 Tracking System which is a system developed for the course ITSE305 (software engineering project Management). Now that the system has been substantially constructed, it is time to give our system a "open source software" platform and to specify the license. In our system, appointment scheduling, location tracing and issuing certificates will be the main areas of system enhancement. Through the optimization of notification, appointment scheduling, and inventory management, the new system will prioritize improving customer service.
