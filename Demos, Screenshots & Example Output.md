@@ -1,4 +1,4 @@
-#Here is a demo for our system prototype:
+# Here is a demo for our system prototype:
 
 ![Authentication](https://github.com/nihal476/Covid19-Surveillance/assets/143533864/007575b4-bceb-49c8-a8fe-144b177a57d7)
 
